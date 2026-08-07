@@ -4,4 +4,23 @@ This is a usb hub that has two usb c upstream ports that can be switched between
 <img width="781" height="518" alt="Screenshot 2026-07-18 112323" src="https://github.com/user-attachments/assets/acf68573-4bc9-4985-b205-330509b363cf" />
 <img width="1279" height="769" alt="Screenshot 2026-07-21 220254" src="https://github.com/user-attachments/assets/de3b303a-609c-40ad-99d4-db4b3c40c9f4" />
 <img width="615" height="340" alt="Screenshot 2026-07-22 134321" src="https://github.com/user-attachments/assets/b77e902d-e708-4724-97a0-029a29ecf051" />
-Bill of Materials (BOM)NamePurposeQuantityTotal Cost (USD)LinkC1, C6, C7, C8, C231uF 25V X5R ±10% 0402 Multilayer Ceramic Capacitor250.40jlcpcb.comC2, C427pF 50V C0G ±5% 0402 Multilayer Ceramic Capacitor200.18jlcpcb.comC3, C12, C16, C1910uF 1206 Multilayer Ceramic Capacitor246.13jlcpcb.comC9, C10, C11100nF 50V X7R ±10% 0402 Multilayer Ceramic Capacitor150.15jlcpcb.comD1BAT54S SOT-23 Schottky Diode 1 Pair Series Connection100.18jlcpcb.comD2, D3, D4, D5, D6, D7TPD2EUSB30DRTR-TP-ES SOT-723 ESD and Surge Protection342.04jlcpcb.comR1-R7, R9, R1010kΩ 50V 62.5mW Thick Film Resistor ±1% 0402 Chip Resistor450.34jlcpcb.comR8, R11, R14, R1624kΩ 150V 125mW Thick Film Resistor ±5% 0805 Chip Resistor300.05jlcpcb.comR15, R17, R18, R195.1kΩ 50V 62.5mW Thick Film Resistor ±1% 0402 Chip Resistor200.14jlcpcb.comU1SL2.1s CoreChips SSOP-16 Hub USB 2.0 Controller51.22jlcpcb.comU2, U7, U10, U13TPS2553DBVR Texas Instruments Power Distribution Switch209.11jlcpcb.comU3, U4, U5, U6, U8ST-0-102-A01-T000-LF YUEN FUNG Toggle Switch SPDT TH2513.02jlcpcb.comU14TPS2116DRLR Texas Instruments Power Management Specialized52.26jlcpcb.comU19TS3USB221RSER Texas Instruments 2:1 USB Analog Switch51.85jlcpcb.comU20ABM10AIG-12.000MHZ Abracon LLC SMD2520 12MHz Crystal52.97jlcpcb.comUSB1, USB6TYPE-C 16PIN 2MD(073) SHOU HAN Female Right Angle Conn110.81jlcpcb.comUSB2, USB3, USB4, USB510.0 QHHTZB6.3 SHOU HAN Type-A USB 2.0 SMD Conn Female221.46jlcpcb.com
+| Designator(s)          | Part / Value            | Description                                       | Quantity | Total Cost (USD) | Source |
+| ---------------------- | ----------------------- | ------------------------------------------------- | -------: | ---------------: | ------ |
+| C1, C6, C7, C8, C23    | 1µF 25V X5R ±10% 0402   | Multilayer Ceramic Capacitor (MLCC)               |       25 |            $0.40 | JLCPCB |
+| C2, C4                 | 27pF 50V C0G ±5% 0402   | Multilayer Ceramic Capacitor (MLCC)               |       20 |            $0.18 | JLCPCB |
+| C3, C12, C16, C19      | 10µF 1206               | Multilayer Ceramic Capacitor (MLCC)               |       24 |            $6.13 | JLCPCB |
+| C9, C10, C11           | 100nF 50V X7R ±10% 0402 | Multilayer Ceramic Capacitor (MLCC)               |       15 |            $0.15 | JLCPCB |
+| D1                     | BAT54S                  | SOT-23 Schottky Diode, Dual Series                |       10 |            $0.18 | JLCPCB |
+| D2, D3, D4, D5, D6, D7 | TPD2EUSB30DRTR          | USB ESD & Surge Protection, SOT-723               |       34 |            $2.04 | JLCPCB |
+| R1-R7, R9, R10         | 10kΩ                    | 0402 Thick Film Resistor ±1%, 62.5mW              |       45 |            $0.34 | JLCPCB |
+| R8, R11, R14, R16      | 24kΩ                    | 0805 Thick Film Resistor ±5%, 125mW               |       30 |            $0.05 | JLCPCB |
+| R15, R17, R18, R19     | 5.1kΩ                   | 0402 Thick Film Resistor ±1%, 62.5mW              |       20 |            $0.14 | JLCPCB |
+| U1                     | SL2.1s                  | CoreChips USB 2.0 Hub Controller, SSOP-16         |        5 |            $1.22 | JLCPCB |
+| U2, U7, U10, U13       | TPS2553DBVR             | Texas Instruments USB Power Distribution Switch   |       20 |            $9.11 | JLCPCB |
+| U3, U4, U5, U6, U8     | ST-0-102-A01-T000-LF    | Yuen Fung SPDT Toggle Switch                      |       30 |           $13.02 | JLCPCB |
+| U14                    | TPS2116DRLR             | Texas Instruments Power Management IC             |        5 |            $2.26 | JLCPCB |
+| U19                    | TS3USB221RSER           | Texas Instruments USB 2:1 Analog Switch           |        5 |            $1.85 | JLCPCB |
+| U20                    | ABM10AIG-12.000MHZ      | Abracon 12MHz SMD Crystal, 2520 Package           |        5 |            $2.97 | JLCPCB |
+| USB1, USB6             | TYPE-C 16PIN 2MD(073)   | SHOU HAN USB Type-C Female Connector, Right Angle |       10 |            $0.81 | JLCPCB |
+| USB2, USB3, USB4, USB5 | 10.0 QHHTZB6.3          | SHOU HAN USB Type-A 2.0 Female SMD Connector      |       22 |            $1.46 | JLCPCB |
+
