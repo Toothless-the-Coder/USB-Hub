@@ -1,9 +1,4 @@
-JLCPCB BOM Tool - BOM Matching,,,,,,,,,,,,,,,,
-BOM name：0c86e5fc62c744338a7033bf67a38e44_1785958370000-JLCPCB Assembly Order.xlsx,,,Download Time：2026-08-08 04:39:01,,,,"* Our matching results are updated in real-time, but stock and prices may change. 
-If it's been over 24 hours, please re-match before placing your order.",,,,,,,,,
-PCB Assembled Qty：5,,,Est. Total Price：42.3174,,,,,,,,,,,,,
-Your BOM,,,,Matched Parts,,,,,,,Order Information,,,,,
-Designator,Comment,Footprint,JLCPCB Part #,Matches,Part # ,Manufacturer,Footprint,Description,Category,Warning,JLCPCB Part #,Product link,Lib Type,Qty,Source,Total Price ($)
+﻿Designator,Comment,Footprint,JLCPCB Part #,Matches,Part #,Manufacturer,Footprint (Matched),Description,Category,Warning,JLCPCB Part # (Matched),Product Link,Lib Type,Qty,Source,Total Price ($)
 "C1,C6,C7,C8,C23",1uF,C0402,,Select by System,CL05A105KA5NQNC,Samsung Electro-Mechanics,0402,1uF 25V X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,Multilayer Ceramic Capacitors MLCC - SMD/SMT,,C52923,https://jlcpcb.com/partdetail/53938-CL05A105KA5NQNC/C52923,Basic,25,25 JLCPCB,0.4
 "C2,C4",27pF,C0201,,Select by Customer,CL05C270JB5NNNC,Samsung Electro-Mechanics,0402,27pF 50V C0G ±5% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,Multilayer Ceramic Capacitors MLCC - SMD/SMT,,C86287,https://jlcpcb.com/partdetail/87463-CL05C270JB5NNNC/C86287,Extended,20,20 JLCPCB,0.184
 "C3,C12,C16,C19",10uF,C1206,,Select by System,CL31B106KOHNFNE,Samsung Electro-Mechanics,1206,1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,,,C16195882,https://jlcpcb.com/partdetail/17320959-CL31B106KOHNFNE/C16195882,Extended,24,24 JLCPCB,6.132
@@ -14,18 +9,20 @@ D1,BAT54SHMT116,SOT-23-3_L3.0-W1.6-P1.90-LS2.8-BR,,Select by Customer,BAT54S,KEX
 "R8,R11,R14,R16",24kΩ,R0805,,Select by System,SCR0805J24K,VO,0805,-55℃~+155℃ 125mW 150V 24kΩ Thick Film Resistor ±200ppm/℃ ±5% 0805 Chip Resistor - Surface Mount ROHS,Chip Resistor - Surface Mount,,C3017863,https://jlcpcb.com/partdetail/VO-SCR0805J24K/C3017863,Extended,30,30 JLCPCB,0.048
 "R15,R17,R18,R19",5.1kΩ,R0402,,Select by Customer,0402WGF5101TCE,UNI-ROYAL(Uniroyal Elec),0402,-55℃~+155℃ 5.1kΩ 50V 62.5mW Thick Film Resistor ±1% ±100ppm/℃ 0402 Chip Resistor - Surface Mount ROHS,Chip Resistor - Surface Mount,,C25905,https://jlcpcb.com/partdetail/26648-0402WGF5101TCE/C25905,Basic,20,20 JLCPCB,0.136
 U1,SL2.1s,SSOP-16_L4.6-W2.6-P0.53-LS4.0-BL,,Select by System,SL2.1s,CoreChips,SSOP-16,0℃~+70℃ 120mA 2.5mA 4 4V~5.25V Hub USB 2.0 SSOP-16 USB HUB Controllers ROHS,USB Converters,,C2684433,https://jlcpcb.com/partdetail/CoreChips-SL21s/C2684433,Extended,5,5 JLCPCB,1.2185
-"U2,U7,U10,U13",TPS2553QDBVRQ1,SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL,,Select by Customer,TPS2553DBVR,Texas Instruments,SOT-23-6,-40℃~+150℃ 1 1.5A 2.5V~6.5V 85mΩ Active High High Side Switch 过压保护、软启动、欠压锁定、反向电压保护、集成电荷泵、Overcurrent Protection、Over temperature protection、锁存保护、Short-Circuit  Protection SOT-23-6 Power Distribution Switches ROHS,Power Distribution Switches,,C55266,https://jlcpcb.com/partdetail/TexasInstruments-TPS2553DBVR/C55266,Extended,20,20 JLCPCB,9.114
+"U2,U7,U10,U13",TPS2553QDBVRQ1,SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL,,Select by Customer,TPS2553DBVR,Texas Instruments,SOT-23-6,-40℃~+150℃ 1 1.5A 2.5V~6.5V 85mΩ Active High High Side Switch 过压保护、软启动、欠压锁定、反向电压保护、集成电荷泵、Overcurrent Protection、Over temperature protection、锁存保护、Short-Circuit Protection SOT-23-6 Power Distribution Switches ROHS,Power Distribution Switches,,C55266,https://jlcpcb.com/partdetail/TexasInstruments-TPS2553DBVR/C55266,Extended,20,20 JLCPCB,9.114
 "U3,U4,U5,U6,U8",ST-0-102-A01-T000-LF,SW-TH_3P-L8.3-W5.2-P2.54_ST-0-102-A01-T000,,Select by System,ST-0-102-A01-T000-LF,YUEN FUNG,"插件,8.3x5.2mm","-25℃~+85℃ 125V 23.6mm 3A 5.2mm 8.3mm Cylinder Lever PC Pin SPDT Through Hole 插件,8.3x5.2mm Toggle Switches ROHS",Toggle Switches,,C1788487,https://jlcpcb.com/partdetail/YUENFUNG-ST_0_102_A01_T000LF/C1788487,Extended,25,25 JLCPCB,13.015
 U14,TPS2116DRLR,SOT-583-8_L2.1-W1.6-P0.50-LS1.6-BL,,Select by System,TPS2116DRLR,Texas Instruments,SOT-583,Operating status indication SOT-583 Power Management - Specialized ROHS,Power Distribution Switches,,C3235557,https://jlcpcb.com/partdetail/TexasInstruments-TPS2116DRLR/C3235557,Extended,5,5 JLCPCB,2.2635
-U19,TS3USB221,UQFN-10_L2.0-W1.5-P0.50-BL,,Select by Customer,TS3USB221RSER,Texas Instruments,UQFN-10(1.5x2),-40℃~+85℃ 1.1GHz 10ns 17ns 2.3V~3.6V 250ps 2:1 6pF 6Ω USB UQFN-10(1.5x2) Analog Switches - Special Purpose ROHS,Analog Switches - Special Purpose,,C130085,https://jlcpcb.com/partdetail/TexasInstruments-TS3USB221RSER/C130085,Extended,5,5 JLCPCB,1.8545
+U19,TS3USB221,UQFN-10_L2.0-W1.5-P0.50-BL,,Select by Customer,TS3USB221RSER,Texas Instruments,UQFN-10(1.5x2),-40℃~+85℃ 1.1GHz 10ns 17ns 2.3V~3.6V 250ps 6pF 6Ω USB UQFN-10(1.5x2) Analog Switches - Special Purpose ROHS,Analog Switches - Special Purpose,,C130085,https://jlcpcb.com/partdetail/TexasInstruments-TS3USB221RSER/C130085,Extended,5,5 JLCPCB,1.8545
 U20,12MHz,CRYSTAL-SMD_4P-L2.5-W2.0-BL_XTAL12MHZ,,Select by System,ABM10AIG-12.000MHZ-4Z-T3,Abracon LLC,SMD2520-4P,-40℃~+125℃ 10pF 12MHz 150Ω ±30ppm ±50ppm SMD2520-4P Crystals ROHS,Crystals,,C1985574,https://jlcpcb.com/partdetail/AbraconLLC-ABM10AIG_12_000MHZ_4ZT3/C1985574,Extended,5,5 JLCPCB,2.9745
 "USB1,USB6",TYPE-C16PIN2MD(073),USB-C-SMD_TYPE-C-16PIN-2MD-073,,Select by System,TYPE-C 16PIN 2MD(073),SHOU HAN,SMD,"-25℃~+85℃ 1 16P 3A 5,000 times 5V Black Female Surface Mount, Right Angle Type-C SMD USB Connectors ROHS",USB Connectors,,C2765186,https://jlcpcb.com/partdetail/SHOUHAN-TYPE_C_16PIN_2MD_073/C2765186,Extended,11,11 JLCPCB,0.8118
 "USB2,USB3,USB4,USB5",10.0QHHTZB6.3,USB-A-TH_10.0QHHTZB6.3,,Select by Customer,10.0 QHHTZB6.3,SHOU HAN,SMD,"-25℃~+85℃ 1 1.5A 10mm 30V 4P 5,000 times Black Female Surface Mount, Right Angle Type-A USB 2.0 SMD USB Connectors ROHS",USB Connectors,,C668591,https://jlcpcb.com/partdetail/SHOUHAN-10_0_QHHTZB63/C668591,Extended,22,22 JLCPCB,1.4586
-Extended Components Fee,,,,$36.84,,
-SMT Assembly,,,,$1.77,,
-Hand-soldering labor fee,,,,$3.58,,
-Manual Assembly,,,,$1.23,,
-Special components fee,,,,$0.66,,
-PCB Price,,,,$7.00,,
-Shipping Estimated,,,,$28.82,,
-Total Price,,,,$131.45,,
+
+Cost Summary
+Extended Components Fee,,,,,,,,,,,,,,,,36.84
+SMT Assembly,,,,,,,,,,,,,,,,1.77
+Hand-soldering labor fee,,,,,,,,,,,,,,,,3.58
+Manual Assembly,,,,,,,,,,,,,,,,1.23
+Special components fee,,,,,,,,,,,,,,,0.66
+PCB Price,,,,,,,,,,,,,,,,7.0
+Shipping Estimated,,,,,,,,,,,,,,,28.82
+Total Price,,,,,,,,,,,,,,,131.45
