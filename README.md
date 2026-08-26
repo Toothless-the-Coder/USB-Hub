@@ -4,6 +4,8 @@ This is a usb hub that has two usb c upstream ports that can be switched between
 <img width="781" height="518" alt="Screenshot 2026-07-18 112323" src="https://github.com/user-attachments/assets/acf68573-4bc9-4985-b205-330509b363cf" />
 <img width="1279" height="769" alt="Screenshot 2026-07-21 220254" src="https://github.com/user-attachments/assets/de3b303a-609c-40ad-99d4-db4b3c40c9f4" />
 <img width="615" height="340" alt="Screenshot 2026-07-22 134321" src="https://github.com/user-attachments/assets/b77e902d-e708-4724-97a0-029a29ecf051" />
+<img width="1095" height="766" alt="image" src="https://github.com/user-attachments/assets/67b672c7-9899-4b6c-a127-b087bd176f35" />
+
 | Designator(s)          | Part / Value            | Description                                       | Quantity | Total Cost (USD) | Source |
 | ---------------------- | ----------------------- | ------------------------------------------------- | -------: | ---------------: | ------ |
 | C1, C6, C7, C8, C23    | 1µF 25V X5R ±10% 0402   | Multilayer Ceramic Capacitor (MLCC)               |       25 |            $0.40 | JLCPCB |
