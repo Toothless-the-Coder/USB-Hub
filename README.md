@@ -23,11 +23,11 @@ This is a usb hub that has two usb c upstream ports that can be switched between
 | U20                    | ABM10AIG-12.000MHZ      | Abracon 12MHz SMD Crystal, 2520 Package           |        5 |            $2.97 | JLCPCB |
 | USB1, USB6             | TYPE-C 16PIN 2MD(073)   | SHOU HAN USB Type-C Female Connector, Right Angle |       10 |            $0.81 | JLCPCB |
 | USB2, USB3, USB4, USB5 | 10.0 QHHTZB6.3          | SHOU HAN USB Type-A 2.0 Female SMD Connector      |       22 |            $1.46 | JLCPCB |
-|Extended Components Fee|||||$36.84||
-|SMT Assembly|||||$1.77||
-|Hand-soldering labor fee|||||$3.58||
-|Manual Assembly|||||$1.23||
-|Special components fee|||||$0.66||
-|PCB Price|||||$7.00||
-|Shipping Estimated|||||$28.82||
-|Total Price|||||$131.45||
+|Extended Components Fee||||$36.84||
+|SMT Assembly||||$1.77||
+|Hand-soldering labor fee||||$3.58||
+|Manual Assembly||||$1.23||
+|Special components fee||||$0.66||
+|PCB Price||||$7.00||
+|Shipping Estimated||||$28.82||
+|Total Price||||$131.45||
